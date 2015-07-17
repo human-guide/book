@@ -12,6 +12,7 @@ But the main thing to know is that you are not alone and we will take this journ
 We shall also give you all the knowledge and tools you need in life to be "successful", however you define "success" for yourself and your life.
 
 Some outcomes of practising the exercises in this book may include:
+
 * **Peace & happiness** - Increased levels of happiness, peace, love and joy in your life
 * **Self-learning** - Learning a great deal about yourself that you may not have been aware of before, and as a result, growing as a person in leaps and bounds
 * **New possibilities** - Opening your mind and heart to new possibilities for your life
@@ -24,7 +25,7 @@ So are you ready? Let's start our journey to learn about your life and what it m
 First though, an important notice you must read before continuing!
 
 ## Rating
-The contents of this book is rated **PG** for **Parental Guidance** since some of the topics covered in this book may be considered too inappropriate or advanced for young children.
+The contents of this book are rated **PG** for **Parental Guidance** since some of the topics covered in this book may be considered too inappropriate or advanced for young children.
 
 This means if you are under the age of 12 you should ask a parent or guardian's permission to read this book and get them to read it with you.
 
@@ -37,6 +38,6 @@ This book is provided "as is", without warranty of any kind, express or implied,
 
 The contents of this book in part and whole is only to ever remain free and must never be sold for any commercial purposes in any form, with the strict exception of use by any form of training or educational providers, institutions or public bodies (commercial or otherwise) that wish to further education within a business, organisation or at the local, national or international levels. So long as the knowledge contained within this book remains free to the recipient, student or trainee, it will be acceptable under the terms of the license, even if this statement contradicts in part the exact terms of the license below.
 
-This work is licensed with love under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). The full terms of the license are detailed at the following page: http://creativecommons.org/licenses/by-nc-sa/4.0/.
+This work is licensed with love under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 We have completed this book in plain British English. Other languages of this book may be introduced in the future.
