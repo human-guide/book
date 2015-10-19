@@ -11,7 +11,7 @@ But the main thing to know is that you are not alone and we will take this journ
 
 We shall also give you all the knowledge and tools you need in life to be "successful", however you define "success" for yourself and your life.
 
-Some outcomes of practising the exercises in this book may include:
+Some results of practising the exercises in this book may include:
 
 * **Peace & happiness** - Increased levels of happiness, peace, love and joy in your life
 * **Self-learning** - Learning a great deal about yourself that you may not have been aware of before, and as a result, growing as a person in leaps and bounds
@@ -36,7 +36,7 @@ If you are currently experiencing any of the following, we advise you **do not**
 
 This book is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the book or the use or other dealings in the book.
 
-The contents of this book in part and whole is only to ever remain free and must never be sold for any commercial purposes in any form, with the strict exception of use by any form of training or educational providers, institutions or public bodies (commercial or otherwise) that wish to further education within a business, organisation or at the local, national or international levels. So long as the knowledge contained within this book remains free to the recipient, student or trainee, it will be acceptable under the terms of the license, even if this statement contradicts in part the exact terms of the license below.
+The contents of this book in part and whole is only to ever remain free and must never be sold for any commercial purposes in any form, with the strict exception of use by any form of training or educational providers, institutions or public bodies (commercial or otherwise) that wish to further education within a business, organisation or at the local, national or international levels. So long as the knowledge contained within this book remains free to the recipient, student or trainee, or is funded through a non-obligatory donation, it will be acceptable under the terms of the license, even if this statement contradicts in part the exact terms of the license below.
 
 This work is licensed with love under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 

@@ -1,13 +1,20 @@
-* Self-Awareness - Becoming aware of each moment
-* Self-Expression - Learning to express yourself in all forms
-* Parents - Honouring our creators
+## Becoming aware of existing filters, notions and challenges
+
 * Listening - Discovering how we filter what people say
-* Present - Bringing the mind to the present moment
+* Perception - Wearing rose-tinted glasses
+* Judgement - Going beyond right or wrong
+
+## 
+
+
+
+* Attention - Life is a game of attention
+* Food - Eating consciously
+* Sex - Removing the guilt around sex
 * Love - Understanding true love vs. attachment
 * Compassion - Having compassion for others
-* Service - Serving humanity proactively
+* Parents - Honouring our creators
 * Universe - Seeing the bigger picture
-* Judgement - Going beyond right or wrong
 * Honesty - Setting yourself free
 * Gratitude - Living gratefully
 * Grace - Living gracefully
@@ -20,9 +27,11 @@
 * Habits - Breaking old habits and creating new ones
 * Commitment - Remaining committed to a cause
 * Positivity - Using language in the positive
+* Self-Expression - Learning to express yourself in all forms
 * Communication - The power of the spoken word
 * Patience - The most important virtue of all ages
-* Sex - Removing the guilt about sex
-* Food - Eating consciously
 * Leadership - Learning to lead yourself and others
+* Service - Serving humanity proactively
+* Present - Bringing the mind to the present moment
+* Self-Awareness - Becoming aware of each moment
 * Death - Leaving gracefully
